@@ -41,18 +41,17 @@ Senior iOS Developer building clean, scalable mobile applications with modern Sw
 - **Integration:** REST API design & consumption
 - **Process:** Agile / Scrum
 
-## GITHUB STATS
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sitnikovdev&show_icons=true&theme=dark&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sitnikovdev&theme=dark&hide_border=true)
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sitnikovdev&theme=react-dark)
 
 </div>
 
