@@ -43,12 +43,6 @@ Senior iOS Developer building clean, scalable mobile applications with modern Sw
 
 ## GitHub Stats
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sitnikovdev&theme=dark)
-
-
-</div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sitnikovdev&theme=react-dark)
 
