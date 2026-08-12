@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3c4d,100:6b9080&height=280&section=header&text=Oleg%20Sitnikov&fontSize=65&fontColor=ffffff&desc=iOS%20SENIOR%20DEVELOPER&descAlignY=65&descAlign=50)
 
-### iOS Senior Developer
+### iOS Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
 
