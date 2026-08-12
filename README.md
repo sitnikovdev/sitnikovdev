@@ -4,7 +4,7 @@
 
 ### iOS Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sitnikovdev&color=blueviolet&style=for-the-badge)
 
 ![Role](https://img.shields.io/badge/ROLE-iOS%20SENIOR%20DEVELOPER-black?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/ARCHITECTURE-MVVM%20%2F%20TCA-black?style=for-the-badge)
