@@ -46,7 +46,7 @@ Senior iOS Developer building clean, scalable mobile applications with modern Sw
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sitnikovdev&theme=dark&hide_border=true)
 
 </div>
 
