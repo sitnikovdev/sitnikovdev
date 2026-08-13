@@ -1,4 +1,4 @@
-# Hi 👋 I'm Oleg
+### Hi 👋 I'm Oleg
 
 iOS developer (Swift, UIKit, SwiftUI) currently transitioning into **AI Engineering**.
 
