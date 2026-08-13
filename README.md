@@ -1,55 +1,56 @@
-<div align="center">
+# Hi 👋 I'm Oleg
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3c4d,100:6b9080&height=280&section=header&text=Oleg%20Sitnikov&fontSize=65&fontColor=ffffff&desc=iOS%20DEVELOPER&descAlignY=65&descAlign=50)
+iOS developer (Swift, UIKit, SwiftUI) currently transitioning into **AI Engineering**.
 
-### iOS Developer
+I keep public notes here as I work through building LLM applications — from a first RAG pipeline to agents that decide on their own when and what to do. I used to design state and side effects in TCA — now I'm learning to design the behavior and decisions of LLM systems. A lot of the mindset carries over: predictability, testability, and clear boundaries of responsibility matter in both worlds.
 
-![Profile Views](https://komarev.com/ghpvc/?username=sitnikovdev&color=blueviolet&style=for-the-badge)
+These aren't a retelling of any course — they're my own notes on what clicked, what broke, and what I'd do differently.
 
-![Role](https://img.shields.io/badge/ROLE-iOS%20DEVELOPER-black?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/ARCHITECTURE-MVVM%20%2F%20TCA-black?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%26%20MOBILE-black?style=for-the-badge)
+---
 
-</div>
+## 🧭 What these notes cover
 
-## ABOUT
+### 1. LLMs and knowledge retrieval
+How large language models work and how retrieval-augmented generation looks in practice: from a basic keyword/vector search to a full "question → relevant context → answer" pipeline. First experiments with the OpenAI SDK and processing my own data.
 
-Senior iOS Developer building clean, scalable mobile applications with modern Swift architecture. Focused on writing maintainable code, well-structured UI, and integrating AI-driven features into mobile products.
+- [ ] Basic keyword search built from scratch
+- [ ] Vector search and embeddings
+- [ ] First working RAG pipeline on real data
 
-## TECH STACK
+### 2. Agents and tools
+Moving from a fixed pipeline to a system that decides for itself whether to call a tool and which one. Function calling, agent SDKs (PydanticAI and similar), integrating external tools via MCP.
 
-<div align="center">
+- [ ] A simple agent with function calling
+- [ ] Connecting tools via MCP
+- [ ] Mini-project: an agent solving a real task
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=ios&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
-![SnapKit](https://img.shields.io/badge/SnapKit-FF6B6B?style=for-the-badge)
-![Tuist](https://img.shields.io/badge/Tuist-4A90D9?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 3. Checking response quality
+How to tell whether an agent actually got better, not just "looks different." Offline evaluation, LLM-as-a-judge, comparing approaches on objective metrics.
 
-</div>
+- [ ] A test-case set for my own project
+- [ ] LLM-as-a-judge in practice
+- [ ] Comparing two pipeline versions by metrics
 
-## ARCHITECTURE & APPROACH
+### 4. Observability and safety in production
+What happens to a system after launch: logging, tracing, metrics, and guarding against undesired model behavior.
 
-- **Patterns:** MVVM, The Composable Architecture (TCA)
-- **UI:** UIKit, SwiftUI, SnapKit for programmatic layout
-- **Project tooling:** Tuist for modular project generation
-- **Integration:** REST API design & consumption
-- **Process:** Agile / Scrum
+- [ ] Basic monitoring of requests/responses
+- [ ] Guardrails against unwanted responses
+- [ ] A dashboard with key metrics
 
-## GitHub Stats
+---
 
+## 🛠️ Stack I'm picking up
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sitnikovdev&theme=react-dark)
+`Python` · `OpenAI SDK` · `Vector search` · `MCP` · `Evaluation frameworks` · `Observability (Grafana / OpenTelemetry)`
 
-</div>
+## 📌 Why this repo exists
 
-<div align="center">
+I keep it to:
+1. Reinforce the material by explaining it in my own words
+2. Have a public track record of moving toward an AI-Engineer role
+3. Build a portfolio of projects I can show in interviews
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b7d4f,100:a8a05a&height=150&section=footer&text=Build%20clean%20•%20Ship%20fast%20•%20Iterate%20always&fontSize=22&fontColor=ffffff)
+---
 
-</div>
+*Updated as I work through the material.*
