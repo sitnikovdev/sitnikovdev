@@ -9,7 +9,7 @@ Updated: 2026-08-15
 ## Introduction
 
 - [What changed: development before and after LLMs](books/Intro-1.md)
-- A contested but important question: does this mean programming as a skill is dying?
+- [A contested but important question: does this mean programming as a skill is dying?](books/intro-2.md)
 - What it means to be a developer now
 - Why this book exists and who it's for
 
