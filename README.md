@@ -4,7 +4,6 @@ Updated: 2026-08-15
 ---
 # From Code to Meaning: A Developer's Guide to LLMs
 
-## Table of Contents
 
 ## Introduction
 
