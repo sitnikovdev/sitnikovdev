@@ -24,3 +24,5 @@ So the honest answer isn't "programming is dying." It isn't "nothing has changed
 **The value is moving** — away from the mechanical act of producing code, toward the judgment to know when generated code can be trusted, when it can't, and why.
 
 That shift is what the rest of this book is really about.
+
+[What it means to be a developer now](intro-3.md)

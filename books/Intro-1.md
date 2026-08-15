@@ -22,4 +22,4 @@ And it's changing the essence of the profession itself:
 - Writing code is increasingly accessible without deep programming knowledge
 - So the question "what makes a good developer" is shifting too
 
-More on that shift in the next part of the introduction.
+More on that shift in the [next part](intro-2.md) of the introduction.

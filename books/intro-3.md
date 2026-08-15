@@ -17,3 +17,5 @@ Based on my own experience, the answer comes down to three things:
 Nobody needs a developer who just types out what's already been specified — a model does that faster now. What's needed instead is someone who can look at a business problem, figure out where AI genuinely helps, and assemble that into something that actually works for the company using it.
 
 That's the developer this book is written for — and the one I'm trying to become.
+
+[Why this book exists and who it's for](intro-4.md)
