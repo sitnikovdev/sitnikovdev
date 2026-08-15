@@ -10,8 +10,8 @@ Updated: 2026-08-15
 
 - [What changed: development before and after LLMs](books/Intro-1.md)
 - [A contested but important question: does this mean programming as a skill is dying?](books/intro-2.md)
-- What it means to be a developer now
-- Why this book exists and who it's for
+- [What it means to be a developer now](books/intro-3.md)
+- [Why this book exists and who it's for](books/intr-4.md)
 
 ## Part I. How the Machine Sees and Understands Text
 
