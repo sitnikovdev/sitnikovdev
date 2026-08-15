@@ -2,7 +2,7 @@
 Created: 2026-08-15
 Updated: 2026-08-15
 ---
-**What changed: development before and after LLMs**
+# What changed: development before and after LLMs
 
 Development used to follow a predictable path. A product manager gathered the client's requirements, turned them into a task, and the developer sat down and wrote the code. The chain was simple: requirement → task → code. A developer's value was measured mainly by how well they could turn a task into working code.
 

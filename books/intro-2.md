@@ -2,7 +2,7 @@
 Created: 2026-08-15
 Updated: 2026-08-15
 ---
-**A contested but important question: does this mean programming as a skill is dying?**
+# A contested but important question: does this mean programming as a skill is dying?
 
 It's tempting to draw a straight line from "you can just describe what you want to a neural network" to "programming knowledge is no longer necessary." That's my own honest reaction, based on what I see in my own practice — and I'll say it plainly: I lean toward thinking the role of "developer who just writes code" is on its way out. Nobody needs a pair of hands that types out what's already been specified — that part is exactly what a model does faster now.
 
