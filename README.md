@@ -1,16 +1,15 @@
 ---
 Created: 2026-08-15
-Updated: 2026-08-15
+Updated: 2026-08-16
 ---
 # From Code to Meaning: A Developer's Guide to LLMs
 
-
 ## Introduction
 
-- [What changed: development before and after LLMs](books/Intro-1.md)
-- [A contested but important question: does this mean programming as a skill is dying?](books/intro-2.md)
-- [What it means to be a developer now](books/intro-3.md)
-- [Why this book exists and who it's for](books/intro-4.md)
+- What changed: development before and after LLMs
+- A contested but important question: does this mean programming as a skill is dying?
+- What it means to be a developer now
+- Why this book exists and who it's for
 
 ## Part I. How the Machine Sees and Understands Text
 
@@ -49,33 +48,44 @@ Updated: 2026-08-15
 - 4.8 What this gives the model in practice
 - 4.9 What we learned
 
+**Chapter 5. How Transformers Work**
+
+- 5.1 The problem: sequential memory and its limits (RNNs/LSTMs)
+- 5.2 The turning point: dropping sequence ("Attention Is All You Need," 2017)
+- 5.3 Why this became physically possible: parallel computation instead of step-by-step
+- 5.4 Three projections of one token: Q, K, V
+- 5.5 How a token compares itself to everyone: from similarity to weights _(softmax — not yet covered)_
+- 5.6 A token's new representation: a weighted sum of V
+- 5.7 One head isn't enough: multi-head attention
+- 5.8 What we learned
+
 ## Part II. Search and Knowledge
 
-**Chapter 5. When the Words Don't Match, but the Meaning Does**
+**Chapter 6. When the Words Don't Match, but the Meaning Does**
 
-- 5.1 The problem: how to search among thousands of documents
-- 5.2 The idea: pull keywords out of the query
-- 5.3 The inverted index: how it works under the hood
-- 5.4 Finding isn't enough — you need ranking
-- 5.5 The wall: where lexicon ends and meaning begins
-- 5.6 What we learned
-
-**Chapter 6. Searching by Meaning**
-
-- 6.1 Back to embeddings — now applied to search
-- 6.2 Documents become points in the space of meaning too
-- 6.3 The query is a vector too
-- 6.4 Finding the nearest neighbors
-- 6.5 Hybrid: keyword + semantic search together
+- 6.1 The problem: how to search among thousands of documents
+- 6.2 The idea: pull keywords out of the query
+- 6.3 The inverted index: how it works under the hood
+- 6.4 Finding isn't enough — you need ranking
+- 6.5 The wall: where lexicon ends and meaning begins
 - 6.6 What we learned
 
-**Chapter 7. From a Retrieved Chunk of Text to a Model's Answer**
+**Chapter 7. Searching by Meaning**
 
-- 7.1 What "RAG" actually means, step by step
-- 7.2 How documents get split into chunks, and why that's its own problem
-- 7.3 Assembling context for the model
-- 7.4 A first experiment on my own data
-- 7.5 What we learned
+- 7.1 Back to embeddings — now applied to search
+- 7.2 Documents become points in the space of meaning too
+- 7.3 The query is a vector too
+- 7.4 Finding the nearest neighbors
+- 7.5 Hybrid: keyword + semantic search together
+- 7.6 What we learned
+
+**Chapter 8. From a Retrieved Chunk of Text to a Model's Answer**
+
+- 8.1 What "RAG" actually means, step by step
+- 8.2 How documents get split into chunks, and why that's its own problem
+- 8.3 Assembling context for the model
+- 8.4 A first experiment on my own data
+- 8.5 What we learned
 
 ## Part III. Agents and Tools _(in progress)_
 
@@ -97,4 +107,4 @@ Updated: 2026-08-15
 
 ---
 
-_The introduction and Chapters 1–7 are broken down into sections based on my own understanding of the material. Parts III–V are still at the high-level plan stage — they'll be fleshed out as I work through those topics._ _Actual prose written so far: 1.2, 4.1, 4.2. Everything else is structure only, awaiting text._
+_The introduction and Chapters 1–8 are broken down into sections based on my own understanding of the material. Parts III–V are still at the high-level plan stage — they'll be fleshed out as I work through those topics._ _Actual prose written so far: 1.2, 4.1, 4.2. Everything else is structure only, awaiting text. Chapter 5 is still missing an explanation of softmax (5.5) — needs to be closed before writing the chapter's prose._
