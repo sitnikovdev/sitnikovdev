@@ -6,7 +6,7 @@ Updated: 2026-08-16
 
 ## Introduction
 
-- What changed: development before and after LLMs
+- [What changed: development before and after LLMs](books/intro-1.md)
 - A contested but important question: does this mean programming as a skill is dying?
 - What it means to be a developer now
 - Why this book exists and who it's for
@@ -50,7 +50,7 @@ Updated: 2026-08-16
 
 **Chapter 5. How Transformers Work**
 
-- 5.1 The problem: sequential memory and its limits (RNNs/LSTMs)
+- [5.1 The problem: sequential memory and its limits (RNNs/LSTMs)](books/5.1.md)
 - 5.2 The turning point: dropping sequence ("Attention Is All You Need," 2017)
 - 5.3 Why this became physically possible: parallel computation instead of step-by-step
 - 5.4 Three projections of one token: Q, K, V
