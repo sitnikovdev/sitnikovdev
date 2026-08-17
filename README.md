@@ -1,7 +1,8 @@
 ---
 Created: 2026-08-15
-Updated: 2026-08-16
+Updated: 2026-08-17
 ---
+
 # From Code to Meaning: A Developer's Guide to LLMs
 
 ## Introduction
@@ -89,9 +90,20 @@ Updated: 2026-08-16
 
 ## Part III. Agents and Tools _(in progress)_
 
-- A simple agent with function calling
-- Connecting tools via MCP
-- Mini-project: an agent solving a real task
+Chapter 9. What Is an AI Agent
+
+- 9.1 The problem: a chatbot answers, but doesn't act
+- 9.2 What changes when the model can decide what to do next on its own
+- 9.3 The ReAct loop: reason → act → observe the result
+- 9.4 The fork: satisfied with the result — answer the user; not satisfied — the loop repeats
+- 9.5 What fundamentally sets an agent apart from a scripted bot
+- 9.6 What we learned
+
+Chapter 10. A Simple Agent with Function Calling (in progress)
+
+Chapter 11. Connecting Tools via MCP (in progress)
+
+Chapter 12. Mini-Project: An Agent Solving a Real Task (in progress)
 
 ## Part IV. Checking Quality _(in progress)_
 
@@ -108,3 +120,4 @@ Updated: 2026-08-16
 ---
 
 _The introduction and Chapters 1–8 are broken down into sections based on my own understanding of the material. Parts III–V are still at the high-level plan stage — they'll be fleshed out as I work through those topics._ _Actual prose written so far: 1.2, 4.1, 4.2. Everything else is structure only, awaiting text. Chapter 5 is still missing an explanation of softmax (5.5) — needs to be closed before writing the chapter's prose._
+
