@@ -1,6 +1,10 @@
 ---
 Created: 2026-08-15
-Updated: 2026-08-20
+Updated: 2026-08-21
+---
+---
+Created: 2026-08-15
+Updated: 2026-08-19
 ---
 
 # From Code to Meaning: A Developer's Guide to LLMs
@@ -115,6 +119,15 @@ Chapter 12. Agent Frameworks: LangChain, LangGraph, and LangSmith
 
 Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 
+Chapter 14. Coding Agents
+
+- 14.1 What a coding agent is: an agent whose tools center on development
+- 14.2 A narrow but deep toolset: filesystem, terminal, version control, test runner
+- 14.3 Observation of a special kind: compiler and test results as an objective signal
+- 14.4 Why the task decomposes naturally into a ReAct loop
+- 14.5 The context is the code itself, not external documents
+- 14.6 What we learned
+
 ## Part IV. Checking Quality _(in progress)_
 
 - A test-case set for my own project
@@ -123,23 +136,11 @@ Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 
 ## Part V. Production _(in progress)_
 
-Chapter 14. What Is LLMOps
-
-- [14.1 The problem: how managing an LLM system differs from managing a regular ML model](books/14.1.md)
-- [14.2 A shift in focus: not training the model — versioning the prompt](books/14.2.md)
-- [14.3 Observability: logs, metrics, and cost in tokens](books/14.3.md)
-- 14.4 When the model fails: fallback and rollback — what's the difference
-- 14.5 Deployment: mostly the same as everywhere else (canary, blue-green, zero downtime) — with an LLM-specific twist
-- 14.6 Testing in production: A/B tests
-- 14.7 Security: keeping secrets out of the code and out of the Dockerfile
-- 14.8 What we learned
-
-Chapter 15. Basic Monitoring of Requests/Responses (in progress)
-
-Chapter 16. Guardrails Against Unwanted Responses (in progress)
-
-Chapter 17. A Dashboard with Key Metrics (in progress)
+- Basic monitoring of requests/responses
+- Guardrails against unwanted responses
+- A dashboard with key metrics
 
 ---
 
-_The introduction and Chapters 1–9, 12 are broken down into sections based on my own understanding of the material. Chapters 10, 11, 13, 15–17 and Part IV are still at the high-level plan stage — they'll be fleshed out as I work through those topics._ _Actual prose written so far: 1.2, 4.1, 4.2, 5.1–5.4, 5.6–5.8, 9.5, 12.1, 12.2, 14.1–14.3. Everything else is structure only, awaiting text. Chapter 5 is still missing an explanation of softmax (5.5) — needs to be closed before writing that section's prose._
+_The introduction and Chapters 1–9, 12 are broken down into sections based on my own understanding of the material. Chapters 10, 11, 13 and Parts IV–V are still at the high-level plan stage — they'll be fleshed out as I work through those topics._ _Actual prose written so far: 1.2, 4.1, 4.2, 5.1–5.4, 5.6–5.8, 9.5, 12.1, 12.2. Everything else is structure only, awaiting text. Chapter 5 is still missing an explanation of softmax (5.5) — needs to be closed before writing that section's prose._
+
