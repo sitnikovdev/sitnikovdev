@@ -2,10 +2,6 @@
 Created: 2026-08-15
 Updated: 2026-08-21
 ---
----
-Created: 2026-08-15
-Updated: 2026-08-19
----
 
 # From Code to Meaning: A Developer's Guide to LLMs
 
