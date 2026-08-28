@@ -1,6 +1,6 @@
 ---
 Created: 2026-08-15
-Updated: 2026-08-21
+Updated: 2026-08-28
 ---
 
 # From Code to Meaning: A Developer's Guide to LLMs
@@ -26,7 +26,7 @@ Updated: 2026-08-21
 
 ## Part II. Search and Knowledge
 
-**Chapter 6. When the Words Don't Match, but the Meaning Does**
+[**Chapter 6. When the Words Don't Match, but the Meaning Does**](books/ch6.md)
 
 - 6.1 The problem: how to search among thousands of documents
 - 6.2 The idea: pull keywords out of the query
