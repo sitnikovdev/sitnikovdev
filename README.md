@@ -26,7 +26,7 @@ Updated: 2026-08-28
 
 [**Chapter 7. Searching by Meaning** (in progress)](books/ch7.md)
 
-[**Chapter 8. From a Retrieved Chunk of Text to a Model's Answer**](books/ch8.md)
+[**Chapter 8. From a Retrieved Chunk of Text to a Model's Answer** (in progress)](books/ch8.md)
 
 ## Part III. Agents and Tools _(in progress)_
 
