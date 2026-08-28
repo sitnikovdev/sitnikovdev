@@ -5,7 +5,7 @@ Updated: 2026-08-28
 
 # From Code to Meaning: A Developer's Guide to LLMs
 
-[## Introduction](book/intro.md)
+[Introduction](book/intro.md)
 
 
 ## Part I. How the Machine Sees and Understands Text
