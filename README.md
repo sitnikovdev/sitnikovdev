@@ -22,17 +22,7 @@ Updated: 2026-08-21
 
 [**Chapter 4. Vectors and Embeddings: Meaning as Geometry**](books/ch4.md)
 
-- 4.1 A token isn't meaning yet — it's just a label
-- 4.2 What if we stored every word as a point in space?
-- 4.3 A space of meaning, by example: flower, tree, garden
-- 4.4 Chaos at the start: what vectors mean before training
-- 4.5 Training as rearranging the furniture
-- 4.6 How to measure the "closeness" of two meanings
-- 4.7 The same token, a different vector
-- 4.8 What this gives the model in practice
-- 4.9 What we learned
-
-**Chapter 5. How Transformers Work**
+[**Chapter 5. How Transformers Work**](books/ch5.md)
 
 - [5.1 The problem: sequential memory and its limits (RNNs/LSTMs)](books/5.1.md)
 - [5.2 The turning point: dropping sequence ("Attention Is All You Need," 2017)](books/5.2.md)
