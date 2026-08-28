@@ -14,7 +14,7 @@ Updated: 2026-08-28
 
 [**Chapter 2. Knowledge Without Knowledge**(in progress)](books/ch2.md)
 
-[**Chapter 3. How the Machine Sees Text: Tokens and Vocabulary**](books/ch3.md)
+[**Chapter 3. How the Machine Sees Text: Tokens and Vocabulary** (in progress) ](books/ch3.md)
 
 [**Chapter 4. Vectors and Embeddings: Meaning as Geometry**](books/ch4.md)
 
