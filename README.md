@@ -14,7 +14,7 @@ Updated: 2026-08-21
 
 ## Part I. How the Machine Sees and Understands Text
 
-**Chapter 1. The Developer in the Age of AI**
+[**Chapter 1. The Developer in the Age of AI**](books/ch1.md)
 
 - 1.1 The developer-as-executor vs. the developer-as-solution-architect
 - 1.2 What AI can do instead of you — and what it can't
