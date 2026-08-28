@@ -32,22 +32,10 @@ Updated: 2026-08-28
 
 [**Chapter 8. From a Retrieved Chunk of Text to a Model's Answer**](books/ch8.md)
 
-- 8.1 What "RAG" actually means, step by step
-- 8.2 How documents get split into chunks, and why that's its own problem
-- 8.3 Assembling context for the model
-- 8.4 A first experiment on my own data
-- 8.5 What we learned
-
 ## Part III. Agents and Tools _(in progress)_
 
-Chapter 9. What Is an AI Agent
-
-- 9.1 The problem: a chatbot answers, but doesn't act
-- 9.2 What changes when the model can decide what to do next on its own
-- 9.3 The ReAct loop: reason → act → observe the result
-- 9.4 The fork: satisfied with the result — answer the user; not satisfied — the loop repeats
-- [9.5 What fundamentally sets an agent apart from a scripted bot](books/9.5.md)
-- 9.6 What we learned
+[Chapter 9. What Is an AI Agent](books/ch9.md
+ 
 
 Chapter 10. A Simple Agent with Function Calling (in progress)
 
