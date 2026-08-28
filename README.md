@@ -28,14 +28,7 @@ Updated: 2026-08-28
 
 [**Chapter 6. When the Words Don't Match, but the Meaning Does**](books/ch6.md)
 
-- 6.1 The problem: how to search among thousands of documents
-- 6.2 The idea: pull keywords out of the query
-- 6.3 The inverted index: how it works under the hood
-- 6.4 Finding isn't enough — you need ranking
-- 6.5 The wall: where lexicon ends and meaning begins
-- 6.6 What we learned
-
-**Chapter 7. Searching by Meaning**
+[**Chapter 7. Searching by Meaning**](books/ch7.md)
 
 - 7.1 Back to embeddings — now applied to search
 - 7.2 Documents become points in the space of meaning too
