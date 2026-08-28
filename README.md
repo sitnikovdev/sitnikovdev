@@ -12,7 +12,7 @@ Updated: 2026-08-28
 
 [Chapter 1. The Developer in the Age of AI (in progress)](books/ch1.md)
 
-[**Chapter 2. Knowledge Without Knowledge**](books/ch2.md)
+[**Chapter 2. Knowledge Without Knowledge**(in progress)](books/ch2.md)
 
 [**Chapter 3. How the Machine Sees Text: Tokens and Vocabulary**](books/ch3.md)
 
