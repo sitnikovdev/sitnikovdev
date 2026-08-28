@@ -16,15 +16,9 @@ Updated: 2026-08-21
 
 [**Chapter 1. The Developer in the Age of AI**](books/ch1.md)
 
-**Chapter 2. Knowledge Without Knowledge**
+[**Chapter 2. Knowledge Without Knowledge**](books/ch2.md)
 
-- 2.1 How a human "knows" things
-- 2.2 What if knowledge is patterns in language, not facts?
-- 2.3 The magic of predicting the next word
-- 2.4 Why this even works: scale of data as fuel
-- 2.5 What we learned
-
-**Chapter 3. How the Machine Sees Text: Tokens and Vocabulary**
+[**Chapter 3. How the Machine Sees Text: Tokens and Vocabulary**](books/ch3.md)
 
 - 3.1 The problem: letters aren't what a neural network works with
 - 3.2 The naive idea, and why it doesn't work
