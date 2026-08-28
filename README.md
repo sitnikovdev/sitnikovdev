@@ -30,14 +30,7 @@ Updated: 2026-08-28
 
 [**Chapter 7. Searching by Meaning**](books/ch7.md)
 
-- 7.1 Back to embeddings — now applied to search
-- 7.2 Documents become points in the space of meaning too
-- 7.3 The query is a vector too
-- 7.4 Finding the nearest neighbors
-- 7.5 Hybrid: keyword + semantic search together
-- 7.6 What we learned
-
-**Chapter 8. From a Retrieved Chunk of Text to a Model's Answer**
+[**Chapter 8. From a Retrieved Chunk of Text to a Model's Answer**](books/ch8.md)
 
 - 8.1 What "RAG" actually means, step by step
 - 8.2 How documents get split into chunks, and why that's its own problem
