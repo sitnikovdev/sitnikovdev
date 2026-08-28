@@ -22,7 +22,7 @@ Updated: 2026-08-28
 
 ## Part II. Search and Knowledge
 
-[**Chapter 6. When the Words Don't Match, but the Meaning Does**](books/ch6.md)
+[**Chapter 6. When the Words Don't Match, but the Meaning Does** (in progress)](books/ch6.md)
 
 [**Chapter 7. Searching by Meaning**](books/ch7.md)
 
@@ -42,9 +42,7 @@ Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 
 [Chapter 14. Coding Agents](books/ch14.md)
 
-
 [Part IV. Checking Quality _(in progress)_](books/part4.md)
-
 
 [Part V. Production _(in progress)_](books/part5.md)
 
