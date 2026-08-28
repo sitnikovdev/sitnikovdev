@@ -43,11 +43,8 @@ Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 [Chapter 14. Coding Agents](books/ch14.md)
 
 
-## Part IV. Checking Quality _(in progress)_
+[## Part IV. Checking Quality _(in progress)_](books/part4.md)
 
-- A test-case set for my own project
-- LLM-as-a-judge in practice
-- Comparing two pipeline versions by metrics
 
 ## Part V. Production _(in progress)_
 
