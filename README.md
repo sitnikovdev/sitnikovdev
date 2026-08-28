@@ -44,14 +44,8 @@ Chapter 11. Connecting Tools via MCP (in progress)
 
 Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 
-Chapter 14. Coding Agents
+[Chapter 14. Coding Agents](books/ch14.md)
 
-- 14.1 What a coding agent is: an agent whose tools center on development
-- 14.2 A narrow but deep toolset: filesystem, terminal, version control, test runner
-- 14.3 Observation of a special kind: compiler and test results as an objective signal
-- 14.4 Why the task decomposes naturally into a ReAct loop
-- 14.5 The context is the code itself, not external documents
-- 14.6 What we learned
 
 ## Part IV. Checking Quality _(in progress)_
 
