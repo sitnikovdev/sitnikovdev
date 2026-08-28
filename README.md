@@ -34,22 +34,13 @@ Updated: 2026-08-28
 
 ## Part III. Agents and Tools _(in progress)_
 
-[Chapter 9. What Is an AI Agent](books/ch9.md
+[Chapter 9. What Is an AI Agent](books/ch9.md)
  
-
 Chapter 10. A Simple Agent with Function Calling (in progress)
 
 Chapter 11. Connecting Tools via MCP (in progress)
 
-Chapter 12. Agent Frameworks: LangChain, LangGraph, and LangSmith
-
-- [12.1 The problem: hand-writing the ReAct loop every time doesn't scale](books/12.1.md)
-- [12.2 LangChain: an agent as a chain of steps](books/12.2.md)
-- 12.3 Where a chain hits its limit: when a straight line isn't enough
-- 12.4 LangGraph: an agent as a graph of states
-- 12.5 From graph to multi-agent: several nodes, each its own agent
-- 12.6 LangSmith: eyes inside the chain/graph
-- 12.7 What we learned
+[Chapter 12. Agent Frameworks: LangChain, LangGraph, and LangSmith](books/ch12.md)
 
 Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 
