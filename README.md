@@ -43,12 +43,9 @@ Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 [Chapter 14. Coding Agents](books/ch14.md)
 
 
-[## Part IV. Checking Quality _(in progress)_](books/part4.md)
+[Part IV. Checking Quality _(in progress)_](books/part4.md)
 
 
-## Part V. Production _(in progress)_
+[Part V. Production _(in progress)_](books/part5.md)
 
-- Basic monitoring of requests/responses
-- Guardrails against unwanted responses
-- A dashboard with key metrics
 
