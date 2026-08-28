@@ -40,7 +40,7 @@ Chapter 11. Connecting Tools via MCP (in progress)
 
 Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 
-[Chapter 14. Coding Agents](books/ch14.md)
+[Chapter 14. Coding Agents (in progress)](books/ch14.md)
 
 [Part IV. Checking Quality _(in progress)_](books/part4.md)
 
