@@ -59,7 +59,3 @@ Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 - Guardrails against unwanted responses
 - A dashboard with key metrics
 
----
-
-_The introduction and Chapters 1–9, 12 are broken down into sections based on my own understanding of the material. Chapters 10, 11, 13 and Parts IV–V are still at the high-level plan stage — they'll be fleshed out as I work through those topics._ _Actual prose written so far: 1.2, 4.1, 4.2, 5.1–5.4, 5.6–5.8, 9.5, 12.1, 12.2. Everything else is structure only, awaiting text. Chapter 5 is still missing an explanation of softmax (5.5) — needs to be closed before writing that section's prose._
-
