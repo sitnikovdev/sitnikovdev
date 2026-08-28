@@ -10,7 +10,7 @@ Updated: 2026-08-28
 
 ## Part I. How the Machine Sees and Understands Text
 
-[**Chapter 1. The Developer in the Age of AI**](books/ch1.md)
+[Chapter 1. The Developer in the Age of AI (in progress)](books/ch1.md)
 
 [**Chapter 2. Knowledge Without Knowledge**](books/ch2.md)
 
