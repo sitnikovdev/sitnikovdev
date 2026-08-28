@@ -24,7 +24,7 @@ Updated: 2026-08-28
 
 [**Chapter 6. When the Words Don't Match, but the Meaning Does** (in progress)](books/ch6.md)
 
-[**Chapter 7. Searching by Meaning**](books/ch7.md)
+[**Chapter 7. Searching by Meaning** (in progress)](books/ch7.md)
 
 [**Chapter 8. From a Retrieved Chunk of Text to a Model's Answer**](books/ch8.md)
 
