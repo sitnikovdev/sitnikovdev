@@ -1,9 +1,9 @@
 ---
 Created: 2026-08-15
-Updated: 2026-08-28
+Updated: 2026-08-29
 ---
 
-# From Code to Meaning: A Developer's Guide to LLMs
+# A Developer's Guide to LLMs
 
 [Introduction](books/intro.md)
 
