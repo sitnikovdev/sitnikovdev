@@ -52,3 +52,5 @@ Chapter 13. Mini-Project: An Agent Solving a Real Task (in progress)
 
 - **2026-08-30:** Added the introduction, [“What Is AI Engineering?”](books/intro-5.md)
 
+- **2026-08-30:** Added section 3.3, ["How Text Actually Gets Cut Up: From Letters to Words Through Merging"](books/3.3.md)
+
