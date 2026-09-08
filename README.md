@@ -1,7 +1,7 @@
 ---
 Created: 2026-08-15
 
-Updated: 2026-09-07
+Updated: 2026-09-08
 ---
 
 # A Developer's Guide to LLMs
